@@ -12,8 +12,9 @@ An interactive learning platform for first-semester BCA students to learn C prog
 
 ## Course Status
 
+- Unit 01: Problem Solving with Computer — Available
 - Unit 02: Elements of C — Available
-- Remaining 10 units — Coming soon
+- Remaining 9 units — Coming soon
 
 ## Getting Started
 

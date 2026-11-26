@@ -13,13 +13,13 @@ Read this file and `DESIGN_SYSTEM.md` before changing any page. Inspect `unit02.
   AGENTS.md
   DESIGN_SYSTEM.md
   index.html       # course homepage / unit directory
+  unit01.html      # Problem Solving with Computer
   unit02.html      # Elements of C — active reference unit
-  unit01.html      # future unit (not created yet)
   ...
   unit11.html      # future unit (not created yet)
 ```
 
-Use lowercase, zero-padded filenames (`unit01.html` through `unit11.html`). Keep paths relative so GitHub Pages works both at a domain root and at a repository subpath. Do not create empty placeholder HTML pages. The homepage must list all eleven units, in numerical order, but only link to completed, verified files. Unavailable entries are non-interactive text with a clear “Coming soon” label, not broken links or disabled anchors. Only Unit 02 is currently enabled. Titles, hours and content for the other units have not been supplied; do not invent them.
+Use lowercase, zero-padded filenames (`unit01.html` through `unit11.html`). Keep paths relative so GitHub Pages works both at a domain root and at a repository subpath. Do not create empty placeholder HTML pages. The homepage must list all eleven units, in numerical order, but only link to completed, verified files. Unavailable entries are non-interactive text with a clear “Coming soon” label, not broken links or disabled anchors. Units 01 and 02 are currently enabled. Titles, hours and content for the other units have not been supplied; do not invent them.
 
 ## 3. Workflow for a new unit or update
 
